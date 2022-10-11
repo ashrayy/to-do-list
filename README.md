@@ -10,8 +10,8 @@ You will also see any lint errors in the console.
 
 ![Screenshot (57)](https://user-images.githubusercontent.com/57523740/195015108-8a29d1be-c72f-42f9-8bd2-9f7c466aac6a.png)
 
+![Screenshot (60)](https://user-images.githubusercontent.com/57523740/195015727-fc82d181-410f-4dc2-9b29-f53ba0a04026.png)
 
-![Screenshot (58)](https://user-images.githubusercontent.com/57523740/195015120-40f24824-3f28-4da4-a1f2-ad773f611379.png)
 
 ### `npm test`
 
